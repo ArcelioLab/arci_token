@@ -1,3 +1,5 @@
+ARCI is a token that runs on the Vexanium blockchain. This token has a function as a service token to access premium services from the arcelio dapp.
+
 # Token contract
 ## Brief
 * It is a token contract which is to 
